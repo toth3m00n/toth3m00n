@@ -1,16 +1,3 @@
-<style>
-   .round {
-  width: 190px;
-  height: 150px;
-  border: 1px solid black;
-  border-radius: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 3px solid #94ffd6;
-  box-shadow: 0 0 10px #3fbf95
-  }
-  </style>
 
 <div id="header" align="center">
   <img class=round
