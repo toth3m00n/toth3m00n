@@ -34,7 +34,7 @@
 
 ##### You can also check my leetcode
 <div>
-    <a href="https:t.me/gold_1618">
+    <a href="https://leetcode.com/Yellow-2/">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06"
         alt="Leetcode Badge"/>
     </a>
