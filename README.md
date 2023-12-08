@@ -26,7 +26,7 @@
 ##### You can find me there: 
 
 <div>
-    <a href="https:t.me/gold_1618">
+    <a href="https://t.me/gold_1618">
         <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white"
         alt="Telegram Badge"/>
     </a>
