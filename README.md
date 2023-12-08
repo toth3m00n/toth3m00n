@@ -31,6 +31,15 @@
         alt="Telegram Badge"/>
     </a>
 </div>
+
+##### You can also check my leetcode
+<div>
+    <a href="https:t.me/gold_1618">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
+        alt="Leetcode Badge"/>
+    </a>
+</div>
+
 <!--
 **toth3m00n/toth3m00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
