@@ -4,10 +4,19 @@
   src="https://i.pinimg.com/originals/4b/20/c4/4b20c45a7162134069de183799403e58.gif" width="200"/>
 </div>
 
+<div id="header" align="center">
+  <h4> You can find me there: </h4>
+    <a href="https://t.me/gold_1618">
+        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white"
+        alt="Telegram Badge"/>
+    </a>
+</div>
+
 ### ⭐ Hi there ⭐
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-- ✍🏻 I’m currently learning Django REST other web-stuff
+- ✍🏻 I’m currently learning Django and REST other web-stuff
+- - 👯 I’m looking to collaborators
 
 ### Languages and tools:
 <div>
@@ -21,15 +30,6 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"/>&nbsp;
-</div>
-
-##### You can find me there: 
-
-<div>
-    <a href="https://t.me/gold_1618">
-        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white"
-        alt="Telegram Badge"/>
-    </a>
 </div>
 
 ##### You can also check my 
