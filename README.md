@@ -16,7 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 - ✍🏻 I’m currently learning Django and REST other web-stuff
-- - 👯 I’m looking to collaborators
+- 👯 I’m looking to collaborators
 
 ### Languages and tools:
 <div>
