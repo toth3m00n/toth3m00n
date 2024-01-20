@@ -9,7 +9,6 @@
 
 - ✍🏻 I’m currently learning Django REST other web-stuff
 
-
 ### Languages and tools:
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
