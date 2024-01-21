@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img class=round
-  src="https://i.pinimg.com/originals/4b/20/c4/4b20c45a7162134069de183799403e58.gif" width="200"/>
+    scr="https://flomaster.club/uploads/posts/2023-01/1673573518_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-10.jpg"
 </div>
 
 <div id="header" align="center">
