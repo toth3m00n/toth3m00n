@@ -13,17 +13,18 @@
 </div>
 
 ---
-
-### ⭐ Hi! Im Alice ⭐
+### :woman_technologist: Обо мне :
+#### ⭐ Привет! Я Алиса ⭐
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-- 👩‍💻 Python is a developer with a year of experience
-- ✍🏻 I’m currently learning Django REST and other web-stuff
-- 👯 I’m looking to collaborators
+- 👩‍💻 Python разработчица с годовым стажем
+- ✍🏻 Сейчас изучаю DRF и other stuff
+- 👯 Ищу команду классных сильных разработчиков для совместных проектов!
+- :zap: В свободное время решаю LeetCode, играю в шахматы и читаю tech статьи.
 
 ---
 
-### Languages and tools:
+### Языки и технологии:
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp; 
@@ -39,7 +40,13 @@
 
 ---
 
-##### You can also check my 
+### :fire: Моя статистика :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toth3m00n)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+##### Можете так же посмотреть: 
 <div>
     <a href="https://leetcode.com/Yellow-2/">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06"
