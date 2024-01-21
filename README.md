@@ -11,6 +11,7 @@
         alt="Telegram Badge"/>
     </a>
 </div>
+---
 
 ### ⭐ Hi! Im Alice ⭐
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
@@ -18,6 +19,8 @@
 - 👩‍💻 Python is a developer with a year of experience
 - ✍🏻 I’m currently learning Django REST and other web-stuff
 - 👯 I’m looking to collaborators
+
+---
 
 ### Languages and tools:
 <div>
@@ -32,6 +35,8 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"/>&nbsp;
 </div>
+
+---
 
 ##### You can also check my 
 <div>
