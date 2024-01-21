@@ -5,12 +5,13 @@
 </div>
 
 <div id="header" align="center">
-  <h4> You can find me there: </h4>
+  <h4> You can find me here: </h4>
     <a href="https://t.me/gold_1618">
         <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white"
         alt="Telegram Badge"/>
     </a>
 </div>
+
 ---
 
 ### ⭐ Hi! Im Alice ⭐
