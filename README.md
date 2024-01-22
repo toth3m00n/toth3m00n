@@ -33,15 +33,15 @@
     <img src= "https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" title="Sqlite3" alt="Sqlite"/>&nbsp;
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" alt="HTML5"/>&nbsp;
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white" title="Pytest">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"/>&nbsp;
 </div>
-
 ---
 
 ### :fire: Моя статистика :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toth3m00n)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toth3m00n&layout=compact&theme=vision-friendly-transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
