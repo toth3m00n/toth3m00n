@@ -16,7 +16,7 @@
 
 ### :woman_technologist: Обо мне :
 #### ⭐ Привет! Я Алиса ⭐
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%5cd65c&lines=Computer+science)](https://git.io/typing-svg)
 
 - 👩‍💻 Python разработчица с полуторагодовым стажем
 - ✍🏻 На данный момент работаю с Django
