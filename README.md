@@ -30,9 +30,10 @@
 ### Языки и технологии:
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp; 
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp;
+    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF"/>&nbsp;
     <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
     <img src= "https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" title="Sqlite3" alt="Sqlite"/>&nbsp;
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" alt="HTML5"/>&nbsp;
@@ -50,7 +51,19 @@
 
 ---
 
-##### Можете так же посмотреть: 
+### :fire: Мои проекты:
+
++ Django + DRF + FBV [проект](https://github.com/toth3m00n/django-blog-2.0)
+  
++ Продолжение первого, но новые фишки + CBV [проект](https://github.com/toth3m00n/django-blog-2.0)
+  
++ Flask + SQLAlchemy [админка](https://github.com/toth3m00n/admin-panel-travelling)
+  
++ [Vk course](https://github.com/toth3m00n/deep_python_vk)
+
+---
+
+#### Можете так же посмотреть: 
 <div>
     <a href="https://leetcode.com/Yellow-2/">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06"
