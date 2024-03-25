@@ -16,7 +16,6 @@
 
 ### :woman_technologist: Обо мне :
 #### ⭐ Привет! Я Алиса ⭐
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%5cd65c&lines=Computer+science)](https://git.io/typing-svg)
 
 - 👩‍💻 Python разработчица с полуторагодовым стажем
 - ✍🏻 На данный момент работаю с Django
@@ -56,7 +55,7 @@
 
 + Django + DRF + FBV [проект](https://github.com/toth3m00n/django-blog-2.0)
   
-+ Продолжение первого, но новые фишки + CBV [проект](https://github.com/toth3m00n/django-blog-2.0)
++ Продолжение первого, но новые фишки + CBV [проект](https://github.com/toth3m00n/blog_cbv)
   
 + Flask + SQLAlchemy [админка](https://github.com/toth3m00n/admin-panel-travelling)
   
