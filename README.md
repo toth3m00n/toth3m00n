@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp;
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF"/>&nbsp;
     <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
+    <img src="https://img.shields.io/badge/SqlAlchemy-%2307405e.svg?&style=flat&logo=SqlAlchemy&logoColor=white"alt="SQLAlchemyk"/>&nbsp;
     <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
     <img src= "https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" title="Sqlite3" alt="Sqlite"/>&nbsp;
