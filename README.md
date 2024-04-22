@@ -54,11 +54,9 @@
 
 ### :fire: Мои проекты:
 
-+ Django + DRF + FBV [проект](https://github.com/toth3m00n/django-blog-2.0)
++ Django + DRF + FBV [проект](https://github.com/toth3m00n/django-blog-2.0), CBV [проект](https://github.com/toth3m00n/blog_cbv)
   
-+ Продолжение первого, но новые фишки + CBV [проект](https://github.com/toth3m00n/blog_cbv)
-  
-+ Flask + SQLAlchemy: [админка](https://github.com/toth3m00n/admin-panel-travelling) + [api](https://github.com/toth3m00n/flask_api) 
++ Flask + SQLAlchemy: [админка](https://github.com/toth3m00n/admin-panel-travelling), Flask + Alembic + SQLAlchemy: [api](https://github.com/toth3m00n/flask_api) 
   
 + [Vk course](https://github.com/toth3m00n/deep_python_vk)
 
