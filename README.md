@@ -58,7 +58,7 @@
   
 + Продолжение первого, но новые фишки + CBV [проект](https://github.com/toth3m00n/blog_cbv)
   
-+ Flask + SQLAlchemy [админка](https://github.com/toth3m00n/admin-panel-travelling)
++ Flask + SQLAlchemy: [админка](https://github.com/toth3m00n/admin-panel-travelling) + [api](https://github.com/toth3m00n/flask_api) 
   
 + [Vk course](https://github.com/toth3m00n/deep_python_vk)
 
