@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Alembic-%23075e.svg?&style=flat&logo=Alembic&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Pydantic-%23e75e.svg?&style=flat&logo=Alembic&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"/>&nbsp;
     <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
     <img src= "https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" title="Sqlite3" alt="Sqlite"/>&nbsp;
