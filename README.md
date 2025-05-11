@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://flomaster.club/uploads/posts/2023-01/1673573518_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-10.jpg" width=200>
+  <img src="[https://flomaster.club/uploads/posts/2023-01/1673573518_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-10.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fprorisuem.ru%2Fkotiki-iz-pinteresta-narisovannye.html&psig=AOvVaw3RVyOZjZQ5W3ffVRW4c_YR&ust=1747055509930000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj6uYq_m40DFQAAAAAdAAAAABAI)" width=200>
 </div>
 
 
