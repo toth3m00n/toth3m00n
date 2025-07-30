@@ -32,11 +32,11 @@
 ### Языки и технологии:
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>&nbsp;
+    <img src="https://img.shields.io/badge/SqlAlchemy-%2307405e.svg?&style=flat&logo=SqlAlchemy&logoColor=white"alt="SQLAlchemy"/>&nbsp;
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp;
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF"/>&nbsp;
     <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>&nbsp;
-    <img src="https://img.shields.io/badge/SqlAlchemy-%2307405e.svg?&style=flat&logo=SqlAlchemy&logoColor=white"alt="SQLAlchemy"/>&nbsp;
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Alembic-%23075e.svg?&style=flat&logo=Alembic&logoColor=white"/>&nbsp;
