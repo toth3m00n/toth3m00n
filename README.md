@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  <h4> You can find me here: </h4>
+  <h4> Можете найти меня тут: </h4>
     <a href="https://t.me/gold_1618">
         <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white"
         alt="Telegram Badge"/>
@@ -55,21 +55,18 @@
 
 ---
 
-### :fire: Моя статистика :
+### Моя статистика :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toth3m00n&layout=compact&theme=vision-friendly-transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :fire: Мои проекты:
+### Мои проекты:
++ [Кинотеатр](https://github.com/whiteynoise/netflix_at_home)
 
-+ Django + DRF + FBV [проект](https://github.com/toth3m00n/django-blog-2.0), CBV [проект](https://github.com/toth3m00n/blog_cbv)
++ [Структуры данных](https://github.com/toth3m00n/data-structure)
   
-+ FastAPI ecommerce [проект](https://github.com/toth3m00n/fastapi_ecommerce)
-  
-+ Flask + SQLAlchemy: [админка](https://github.com/toth3m00n/admin-panel-travelling), Flask + Alembic + SQLAlchemy: [api](https://github.com/toth3m00n/flask_api) 
-  
-+ [Vk course](https://github.com/toth3m00n/deep_python_vk)
++ [Vk Курс](https://github.com/toth3m00n/deep_python_vk)
 
 ---
 
