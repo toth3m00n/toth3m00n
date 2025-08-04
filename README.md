@@ -68,6 +68,8 @@
   
 + [Vk Курс](https://github.com/toth3m00n/deep_python_vk)
 
++ [Система сбора и обработки данных по авиаперевозкам](https://github.com/xBhgbz/AviaDataCollector) 
+
 ---
 
 #### Можете так же посмотреть: 
