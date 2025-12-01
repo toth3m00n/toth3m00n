@@ -13,19 +13,6 @@
 </div>
 
 
-<!--
-
-
-### :woman_technologist: Обо мне :
-#### ⭐ Привет! Я Алиса ⭐
-
-- 👩‍💻 Python разработчица с полуторагодовым стажем
-- ✍🏻 На данный момент работаю с Django
-- ✍🏻 В планах Fast Api
-- :zap: В свободное время решаю LeetCode, смотрю фильмы
-  
- #opentowork
--->
 
 ---
 
@@ -52,12 +39,6 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"/>&nbsp;
 </div>
-
----
-
-### Моя статистика :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toth3m00n&layout=compact&theme=vision-friendly-transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
