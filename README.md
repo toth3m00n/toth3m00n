@@ -18,24 +18,13 @@
 
 ### Языки и технологии:
 <div>
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" title="Golang" alt="Golang"/>&nbsp;
     <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
     <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>&nbsp;
-    <img src="https://img.shields.io/badge/SqlAlchemy-%2307405e.svg?&style=flat&logo=SqlAlchemy&logoColor=white"alt="SQLAlchemy"/>&nbsp;
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp;
-    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF"/>&nbsp;
-    <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" title="Claude" alt="Claude"/>&nbsp;
     <img src="https://img.shields.io/badge/Alembic-%23075e.svg?&style=flat&logo=Alembic&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Pydantic-%23e75e.svg?&style=flat&logo=Alembic&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"/>&nbsp;
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
-    <img src= "https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" title="Sqlite3" alt="Sqlite"/>&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" alt="HTML5"/>&nbsp;
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" title="CSS3" alt="CSS3"/>&nbsp;
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white" title="Pytest">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"/>&nbsp;
 </div>
